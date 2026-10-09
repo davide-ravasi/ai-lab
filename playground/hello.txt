@@ -1,0 +1,2 @@
+Hello from ai-lab playground.
+This file is the toy cwd for the first Cursor SDK local run.

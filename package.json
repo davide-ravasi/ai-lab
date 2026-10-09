@@ -1,0 +1,15 @@
+{
+  "name": "ai-lab",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "prompt": "node --env-file=.env prompt.mjs",
+    "conversation": "node --env-file=.env conversation.mjs"
+  },
+  "dependencies": {
+    "@cursor/sdk": "^1.0.32"
+  }
+}

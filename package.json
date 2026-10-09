@@ -7,7 +7,9 @@
   },
   "scripts": {
     "prompt": "node --env-file=.env prompt.mjs",
-    "conversation": "node --env-file=.env conversation.mjs"
+    "conversation": "node --env-file=.env conversation.mjs",
+    "errors:startup": "node errors-startup.mjs",
+    "errors:run": "node --env-file=.env errors-run.mjs"
   },
   "dependencies": {
     "@cursor/sdk": "^1.0.32"

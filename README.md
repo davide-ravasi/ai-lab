@@ -13,8 +13,15 @@ Lab Cursor SDK (surplus Ven). Path studio: `cerebro/docs/sources/ai-agents/READM
 | Path | Ruolo |
 |------|--------|
 | `prompt.mjs` | One-shot `Agent.prompt` local |
-| `playground/` | Toy `cwd` (l’agente lavora qui) |
+| `conversation.mjs` | `create` + più `send` |
+| `errors-*.mjs` | Lab #3 errori |
+| `real-repo.mjs` | Lab #4 — cwd = track-em-all root; prompt su `EpisodePage.tsx` (read-only) |
+| `playground/` | Toy `cwd` (lab 1–2) |
 | `.env` | API key |
+
+```bash
+npm run real-repo
+```
 
 ## Regola
 

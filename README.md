@@ -26,3 +26,7 @@ npm run real-repo
 ## Regola
 
 Un obiettivo per sessione. Non mescolare tutorial + feature lavoro nello stesso 25′.
+
+## Ripartenza (cambio PC)
+
+Prompt da incollare in chat: [`docs/restart-prompt-2026-10-28.md`](docs/restart-prompt-2026-10-28.md). Env: Drive `backup-pc-cambio-2026-10/env/ai-lab.env`.

@@ -10,7 +10,8 @@
     "conversation": "node --env-file=.env conversation.mjs",
     "errors:startup": "node errors-startup.mjs",
     "errors:run": "node --env-file=.env errors-run.mjs",
-    "real-repo": "node --env-file=.env real-repo.mjs"
+    "real-repo": "node --env-file=.env real-repo.mjs",
+    "cloud": "node --env-file=.env cloud-repo.mjs"
   },
   "dependencies": {
     "@cursor/sdk": "^1.0.32"

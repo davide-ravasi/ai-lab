@@ -12,7 +12,8 @@
     "errors:run": "node --env-file=.env errors-run.mjs",
     "real-repo": "node --env-file=.env real-repo.mjs",
     "cloud": "node --env-file=.env cloud-repo.mjs",
-    "resume": "node --env-file=.env resume.mjs"
+    "resume": "node --env-file=.env resume.mjs",
+    "agents-md": "node --env-file=.env agents-md.mjs"
   },
   "dependencies": {
     "@cursor/sdk": "^1.0.32"

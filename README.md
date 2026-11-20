@@ -17,6 +17,7 @@ Lab Cursor SDK (surplus Ven). Path studio: `cerebro/docs/sources/ai-agents/READM
 | `errors-*.mjs` | Lab #3 errori |
 | `real-repo.mjs` | Lab #4 — cwd = track-em-all root; prompt su `EpisodePage.tsx` (read-only) |
 | `cloud-repo.mjs` | Lab #5 — `cloud: { repos }` su questo repo GitHub (read-only) |
+| `resume.mjs` | Lab #6 — `Agent.resume` sull’id `bc-…` del #5 |
 | `playground/` | Toy `cwd` (lab 1–2) |
 | `.env` | API key |
 

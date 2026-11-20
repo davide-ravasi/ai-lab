@@ -29,6 +29,8 @@ try {
   console.log("(2/3) create ok — agentId:", agent.agentId);
   console.log("send…");
 
+  console.log("agentId:", agent.agentId);
+
   const run = await agent.send(
     [
       "Read-only task. Do not create, edit, or delete any files.",

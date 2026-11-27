@@ -10,7 +10,7 @@ Questa chat è stata persa col cambio PC. Il filo operativo è questo file + le 
 
 ## Cos’è
 
-Repo lab Cursor SDK (surplus Ven, 1 pomodoro). Note studio: `cerebro-wiki` → `docs/sources/ai-agents/` + mappa agenti. Corso Udemy Max = solo vocabolario; coda video **chiusa** 20/10.
+Repo lab Cursor SDK (surplus Ven, 1 pomodoro). Note studio: `cerebro-wiki` → `docs/sources/ai-agents/` + mappa agenti. Udemy Max = vocabolario: §1–§2 ☑ · §3 overview dopo #5 · §4–5 skip · §6 dopo #8b.
 
 ## Setup sul PC nuovo
 
@@ -29,9 +29,13 @@ Repo lab Cursor SDK (surplus Ven, 1 pomodoro). Note studio: `cerebro-wiki` → `
 | 2 | `create` + `send` | ✓ |
 | 3 | errori (startup / run) | ✓ |
 | 4 | real-repo: cwd track-em-all, pezzo su `EpisodePage.tsx` read-only | ✓ |
-| 5 | cloud / skill pratica | ☐ prossimo Ven |
+| 5 | cloud (`bc-…`, VM vs cwd) | ✓ 30/10 |
+| 6 | resume (`bc-…` del #5) | ✓ 04/11 |
+| 7 | AGENTS.md + settingSources project | ✓ 20/11 |
+| 7b | HITL / permessi (IDE vs script · sandbox) | ✓ 27/11 |
+| 8 → 8b → 9 | MCP se serve · capstone · multi-agent | ☐ |
 
-Script: `npm run prompt` · `conversation` · `errors:startup` · `errors:run` · `real-repo`.
+Script: `npm run prompt` · `conversation` · `errors:startup` · `errors:run` · `real-repo` · `cloud`.
 
 ## Regole
 
@@ -41,4 +45,4 @@ Script: `npm run prompt` · `conversation` · `errors:startup` · `errors:run` �
 
 ## Prox
 
-Ven: lab **#5** (cloud) oppure pezzo skill / morning-agent. Piano settimanale: `cerebro-wiki` → `docs/study-resume.md` e `docs/restart-prompt-2026-10-28.md`.
+Prossimo lab: **#8** MCP solo se caso vero, altrimenti **#8b** capstone. Script: `resume` · `agents-md`.
